@@ -5,7 +5,6 @@ git init
 
 # Add remote (replace with your username/repo)
 git remote add origin https://github.com/theBrainly/assignment-chatbot.git
-
 # Helper function to make a commit with a specific date
 make_commit() {
   local msg="$1"
