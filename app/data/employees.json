@@ -1,0 +1,124 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS", "Machine Learning", "TensorFlow"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard", "Patient Data Analysis"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "skills": ["JavaScript", "Node.js", "MongoDB", "Express", "React Native"],
+      "experience_years": 4,
+      "projects": ["Mobile Banking App", "Social Media Platform"],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Sarah Chen",
+      "skills": ["Python", "Machine Learning", "TensorFlow", "PyTorch", "Healthcare Analytics"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "Patient Risk Prediction", "X-ray Analysis System"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "Michael Rodriguez",
+      "skills": ["Machine Learning", "Python", "scikit-learn", "pandas", "Healthcare Data"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System", "Health Records Management", "HIPAA Compliance Tool"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Emily Wang",
+      "skills": ["React", "Vue.js", "UI/UX Design", "CSS", "Figma"],
+      "experience_years": 3,
+      "projects": ["E-commerce Frontend", "Healthcare Provider Portal", "Design System Development"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "David Kumar",
+      "skills": ["Java", "Spring Boot", "Docker", "Kubernetes", "AWS"],
+      "experience_years": 7,
+      "projects": ["Banking Backend System", "Microservices Architecture", "Cloud Migration"],
+      "availability": "busy"
+    },
+    {
+      "id": 7,
+      "name": "Jessica Lee",
+      "skills": ["Data Science", "R", "Python", "SQL", "Tableau"],
+      "experience_years": 5,
+      "projects": ["Customer Analytics Dashboard", "Predictive Maintenance", "Market Basket Analysis"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Ryan Patel",
+      "skills": ["DevOps", "AWS", "Docker", "Terraform", "CI/CD"],
+      "experience_years": 6,
+      "projects": ["Infrastructure Automation", "Cloud Cost Optimization", "Deployment Pipeline"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Sophia Martinez",
+      "skills": ["iOS Development", "Swift", "Objective-C", "React Native", "Firebase"],
+      "experience_years": 4,
+      "projects": ["Health Tracking App", "Social Networking App", "E-commerce Mobile App"],
+      "availability": "busy"
+    },
+    {
+      "id": 10,
+      "name": "Thomas Wilson",
+      "skills": ["Android Development", "Kotlin", "Java", "Firebase", "Room Database"],
+      "experience_years": 5,
+      "projects": ["Delivery Tracking App", "Finance Management App", "Fitness Tracker"],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "Olivia Brown",
+      "skills": ["Full Stack", "JavaScript", "React", "Node.js", "MongoDB", "AWS"],
+      "experience_years": 3,
+      "projects": ["Educational Platform", "Task Management System", "Customer Portal"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "James Williams",
+      "skills": ["Security", "Penetration Testing", "Python", "Network Security", "Cryptography"],
+      "experience_years": 8,
+      "projects": ["Security Audit System", "Authentication Framework", "Data Encryption Tool"],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Aisha Khan",
+      "skills": ["Data Engineering", "Apache Spark", "Python", "AWS", "Hadoop"],
+      "experience_years": 6,
+      "projects": ["Data Pipeline Development", "Real-time Analytics Platform", "ETL Process Optimization"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Daniel Garcia",
+      "skills": ["Backend Development", "Go", "Docker", "Kubernetes", "PostgreSQL"],
+      "experience_years": 7,
+      "projects": ["High-Performance API", "Distributed Systems", "Database Optimization"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Priya Sharma",
+      "skills": ["QA Automation", "Selenium", "Python", "Jenkins", "Test Planning"],
+      "experience_years": 4,
+      "projects": ["Test Automation Framework", "Continuous Testing Pipeline", "Mobile App Testing"],
+      "availability": "busy"
+    }
+  ]
+}
